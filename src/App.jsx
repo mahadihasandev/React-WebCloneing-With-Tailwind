@@ -1,10 +1,9 @@
-import List from './component/List'
-
+import Button from "./component/button"
 const App = () => {
   return (
     <>
 
-    <List text={"Home"}/>
+   <Button text="Contact Us"/>
   
     </>
   )
