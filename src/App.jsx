@@ -1,10 +1,12 @@
-import Button from "./component/button"
+
+import Image from "./component/Image"
+import Banner from './assets/banner.jpg'
+
 const App = () => {
   return (
     <>
-
-   <Button text="Contact Us"/>
   
+ 
     </>
   )
 }
