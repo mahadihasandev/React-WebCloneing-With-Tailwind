@@ -1,12 +1,9 @@
-import Container from "./component/Container"
+import Nav from "./Layoutes/Nav"
 
 const App = () => {
   return (
     <>
-  <Container>
-   
-  </Container>
- 
+    <Nav/>
     </>
   )
 }

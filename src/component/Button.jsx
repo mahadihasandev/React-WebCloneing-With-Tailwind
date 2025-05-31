@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Button({text}) {
+function Button({text,className}) {
   return (
     <button className={`text-lg font-semibold 
         text-white border border-transparent py-[14px] px-7 
