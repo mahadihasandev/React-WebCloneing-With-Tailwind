@@ -8,13 +8,17 @@ export default {
     extend: {
       fontFamily:{
         'open':["Open Sans"],
+        'paprika':["Paprika, system-ui"],
       },
       colors:{
         'primary':"#1BBF00",
-        'secondary':"#160C6D",
+        'secondary':"#160c6d80",
       },
       maxWidth:{
         'container':"1170px",
+      },
+      backgroundImage:{
+        'banner':"url('./assets/banner.png')",
       },
     },
   },

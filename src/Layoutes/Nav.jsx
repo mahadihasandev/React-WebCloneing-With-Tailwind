@@ -10,7 +10,7 @@ function Nav() {
  
   return (
     <>
-  <nav className='bg-secondary py-[18px]'>
+  <nav className='bg-secondary py-[18px] absolute z-10 right-0 left-0'>
     <Container>
       <Flex className='items-center justify-between'>
         <Image src={Logo}/>
