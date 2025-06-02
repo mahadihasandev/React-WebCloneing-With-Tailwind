@@ -6,7 +6,7 @@ function Banner() {
   return (
     <>
     <section className='bg-banner relative bg-no-repeat bg-cover bg-center pt-[500px] pb-[394px] w-full'>
-      <div className='absolute bg-[#6b62c5e6] w-full top-0 left-0'>
+      <div className='absolute bg-[#6b62c5e6] w-full top-0 left-0 bottom-0'>
         <Container>
         <div className='text-center mt-[246px] mb-[254px]'>
           <h1 className='text-[84px] text-[#FAFAFE] font-bold font-open'>You're Unique.Your Website Should be too</h1>
