@@ -14,7 +14,9 @@ export default {
         'primary':"#1BBF00",
         'secondary':"#160c6d80",
         'third':"#141135",
-        'fifth':"#4f585fad",
+        'four':"#726E9E",
+        'five':"#FDFDFD",
+        'six':"#CBC8F0",
       },
       maxWidth:{
         'container':"1170px",

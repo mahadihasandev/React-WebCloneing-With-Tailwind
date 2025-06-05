@@ -1,6 +1,7 @@
 import Nav from "./Layoutes/Nav"
 import Banner from './Layoutes/Banner';
 import Service from './Layoutes/Service';
+import Feature from "./Layoutes/Feature";
 
 
 const App = () => {
@@ -9,6 +10,7 @@ const App = () => {
     <Nav/>
     <Banner/>
     <Service/>
+    <Feature/>
     </>
   )
 }

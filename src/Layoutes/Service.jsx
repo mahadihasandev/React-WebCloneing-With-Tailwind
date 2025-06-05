@@ -12,7 +12,7 @@ import ServiceCard from './../component/ServiceCard';
 function Service() {
   return (
     <>
-    <section className='bg-[#F9F9FB] relative -z-20'>
+    <section className='bg-[#F9F9FB] relative -z-20 pb-[100px]'>
       <Container>
         <Flex className='justify-between relative'>
           <div className='absolute w-[270px] h-[350px] left-0 -z-10 -top-[100px]'>
