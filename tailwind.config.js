@@ -17,6 +17,8 @@ export default {
         'four':"#726E9E",
         'five':"#FDFDFD",
         'six':"#CBC8F0",
+        "seven":"#FAFAFE",
+        'darkBlue':"#6B62C5",
       },
       maxWidth:{
         'container':"1170px",
