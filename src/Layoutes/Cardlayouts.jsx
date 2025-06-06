@@ -27,11 +27,16 @@ function Cardlayouts() {
                   both use and develop technology."/>
                   <Button className="hover:text-black" text="Contact Us"/>
                 </div>
-                <Cardlay src={cardlayimg}/>
-                <Cardlay src={cardlayimg1}/>
-                <Cardlay src={cardlayimg2}/>
-                <Cardlay src={cardlayimg3}/>
-                <Cardlay src={cardlayimg4}/>
+                <Cardlay src={cardlayimg} title="web Design & Dev" text="Social 
+                Media has changed the way we interact & do business while creating"/>
+                <Cardlay src={cardlayimg1} title="Software Dev" text="Content Marketing is 
+                the other fold of online advertisement. If you are looking to build"/>
+                <Cardlay src={cardlayimg2} title="Content Writing" text="Social Media 
+                has changed the way we interact & do business while creating a new avenue."/>
+                <Cardlay src={cardlayimg3} title="Digital Marketing" text="Social Media 
+                has changed the way we interact & do business while creating a new avenue"/>
+                <Cardlay src={cardlayimg4} title="Support & Training" text="Content Marketing is 
+                the other fold of online advertisement. If you are looking to build"/>
             </Flex>
         </Container>
     </section>
