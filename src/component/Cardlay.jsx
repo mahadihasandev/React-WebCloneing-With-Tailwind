@@ -3,8 +3,8 @@ import Image from '../component/Image'
 
 function Cardlay({src,title,text}) {
   return (
-    <div className='group bg-[#FFFFFF] w-[370px] h-[395px] rounded-[20px] 
-    text-center px-7 hover:bg-darkBlue duration-300'>
+    <div className='group bg-[#FFFFFF] md:w-[370px] h-[370px] md:h-[395px] rounded-[20px] 
+    text-center ml-3 md:ml-0 px-7 hover:bg-darkBlue duration-300'>
       <Image className='inline-block pt-12 pb-8' src={src}/>
       
       <h3 className='group-hover:text-seven text-[30px] font-bold 

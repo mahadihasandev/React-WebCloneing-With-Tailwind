@@ -17,12 +17,12 @@ import cardlayimg4 from '../assets/cardlayimg4.png'
 
 function Cardlayouts() {
   return (
-    <section className='bg-[#F6F5FF] pt-[100px] pb-24'>
+    <section className='bg-[#F6F5FF] pt-10 md:pt-[100px] md:pb-24'>
         <Container>
             <Flex className="gap-6 flex-wrap">
-                <div className='h-[395px] w-[370px] pt-2'>
+                <div className='md:h-[395px] w-[370px] pl-5 md:pl-0 pt-2'>
                   <Commonheading text="What We Do" />
-                  <Commonsubheading className="pt-5 pb-14 leading-8" text="We are now a 
+                  <Commonsubheading className="pt-5 pb-10 md:pb-14 leading-8" text="We are now a 
                   team of strategists, engineers, designers, and marketers who 
                   both use and develop technology."/>
                   <Button className="hover:text-black" text="Contact Us"/>

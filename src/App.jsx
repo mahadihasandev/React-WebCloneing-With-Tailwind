@@ -3,6 +3,8 @@ import Banner from './Layoutes/Banner';
 import Service from './Layoutes/Service';
 import Feature from "./Layoutes/Feature";
 import Cardlayouts from "./Layoutes/Cardlayouts";
+import ChoosePlan from "./Layoutes/ChoosePlan";
+import Footer from "./Layoutes/Footer";
 
 
 const App = () => {
@@ -13,6 +15,8 @@ const App = () => {
     <Service/>
     <Feature/>
     <Cardlayouts/>
+    <ChoosePlan/>
+    <Footer/>
     </>
   )
 }
